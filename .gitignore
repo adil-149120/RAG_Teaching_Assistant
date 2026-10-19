@@ -1,0 +1,30 @@
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+
+# OS-generated files
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+
+#personalised
+1758903342221-rag_all_audios/
