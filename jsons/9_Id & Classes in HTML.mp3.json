@@ -1,0 +1,2042 @@
+{
+  "chunks": [
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 0.0,
+      "end": 3.08,
+      "text": " In this video, I will tell you what are ID and Classes?"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 3.08,
+      "end": 7.32,
+      "text": " The concept of ID and Classes is one of the most confused concepts."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 7.32,
+      "end": 12.280000000000001,
+      "text": " In fact, when I was learning HTML, I was very confused in my early days."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 12.280000000000001,
+      "end": 14.08,
+      "text": " ID means Unique Identifier."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 14.08,
+      "end": 18.8,
+      "text": " That is, if you give an ID to an element, you will not give that ID to the other element."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 18.8,
+      "end": 23.96,
+      "text": " But class means that if you want to give a property to multiple elements,"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 23.96,
+      "end": 25.560000000000002,
+      "text": " then you will give it multiple classes."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 25.560000000000002,
+      "end": 29.76,
+      "text": " For example, you can give a class named Red to a div and a form."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 29.76,
+      "end": 35.24,
+      "text": " Similarly, you can give a class named BGRed to an article tag and a header tag."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 35.24,
+      "end": 39.04,
+      "text": " Do like this video because we will now go to the computer screen"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 39.04,
+      "end": 41.72,
+      "text": " and we will see these things very closely."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 41.72,
+      "end": 43.08,
+      "text": " Let's roll the intro."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 52.64,
+      "end": 54.400000000000006,
+      "text": " Alright guys, so I am back."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 54.400000000000006,
+      "end": 57.760000000000005,
+      "text": " And if you have not accessed the Sigma Web Development course,"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 57.76,
+      "end": 61.239999999999995,
+      "text": " then access the playlist or click on the bookmark or click on save."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 61.239999999999995,
+      "end": 63.879999999999995,
+      "text": " And the source code is also being uploaded on GitHub."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 63.879999999999995,
+      "end": 68.36,
+      "text": " Now I will come here in the folder and quickly make a folder of video number 9."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 68.36,
+      "end": 70.52,
+      "text": " So I will make a folder of video 9 here."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 70.52,
+      "end": 72.72,
+      "text": " I will write here video 9."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 72.72,
+      "end": 77.2,
+      "text": " And after making a folder of video 9, I will right click on shift and open with code."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 77.2,
+      "end": 79.84,
+      "text": " And here you can see that it has opened in BS code."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 79.84,
+      "end": 84.16,
+      "text": " Now I will write index.html here, I will enter with an exclamation mark."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 84.16,
+      "end": 89.03999999999999,
+      "text": " And along with that, now I will tell you what are ID and classes."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 89.03999999999999,
+      "end": 91.11999999999999,
+      "text": " You must have an Aadhar card, right?"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 91.11999999999999,
+      "end": 93.0,
+      "text": " If not, then you must have some ID."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 93.0,
+      "end": 95.0,
+      "text": " Now don't write in the comment that I don't have an ID."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 95.0,
+      "end": 98.2,
+      "text": " Whenever you go somewhere, you have to show your ID"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 98.2,
+      "end": 101.67999999999999,
+      "text": " to prove your identity in some of the cases."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 101.67999999999999,
+      "end": 102.96,
+      "text": " That I am this."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 102.96,
+      "end": 106.75999999999999,
+      "text": " Now if you want to understand about ID and classes in HTML,"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 106.75999999999999,
+      "end": 109.56,
+      "text": " then ID is what your identity is."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 109.56,
+      "end": 111.8,
+      "text": " Okay, what is it? It is your identity."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 111.8,
+      "end": 113.28,
+      "text": " So listen to a story here."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 113.4,
+      "end": 114.72,
+      "text": " This is John."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 114.72,
+      "end": 116.2,
+      "text": " And this is Harry."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 116.2,
+      "end": 118.2,
+      "text": " These two are very good friends."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 118.2,
+      "end": 119.64,
+      "text": " They are very good friends."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 119.64,
+      "end": 122.52,
+      "text": " They just don't share their lunch."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 122.52,
+      "end": 124.52,
+      "text": " And the rest are very good friends."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 124.52,
+      "end": 126.52,
+      "text": " In the matter of food, he is not the only one."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 126.52,
+      "end": 128.92000000000002,
+      "text": " And he is a friend in all other matters."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 128.92000000000002,
+      "end": 132.12,
+      "text": " And here you can see that this is John and Harry."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 132.12,
+      "end": 134.12,
+      "text": " Both of them have their own Aadhar ID."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 134.12,
+      "end": 136.12,
+      "text": " So this is my Aadhar number."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 136.12,
+      "end": 140.12,
+      "text": " And John's Aadhar number looks something like this."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 140.96,
+      "end": 142.96,
+      "text": " So this is John's Aadhar number."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 142.96,
+      "end": 144.96,
+      "text": " And this is my Aadhar number."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 144.96,
+      "end": 146.96,
+      "text": " Our Aadhar numbers can never be the same."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 146.96,
+      "end": 148.96,
+      "text": " Or if we assume that"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 148.96,
+      "end": 150.96,
+      "text": " our friend is my friend."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 150.96,
+      "end": 152.96,
+      "text": " Tanya and John's friend is Shruti."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 152.96,
+      "end": 154.96,
+      "text": " So their Aadhar numbers will also be different."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 154.96,
+      "end": 156.96,
+      "text": " And this is Tanya's Aadhar number."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 156.96,
+      "end": 158.96,
+      "text": " Now this Aadhar number will be different for everyone."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 158.96,
+      "end": 160.96,
+      "text": " So John and Harry were friends."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 160.96,
+      "end": 162.96,
+      "text": " John's friend was Shruti."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 162.96,
+      "end": 164.96,
+      "text": " This is her Aadhar number."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 164.96,
+      "end": 166.96,
+      "text": " And this is mine."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 166.96,
+      "end": 168.96,
+      "text": " So this is mine."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 169.8,
+      "end": 171.8,
+      "text": " This is Tanya's Aadhar number."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 171.8,
+      "end": 173.8,
+      "text": " None of these four numbers are the same."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 173.8,
+      "end": 175.8,
+      "text": " If I told you any of these Aadhar numbers,"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 175.8,
+      "end": 177.8,
+      "text": " I would have said 35, 44, 5."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 177.8,
+      "end": 179.8,
+      "text": " You will understand that we are talking about Harry."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 179.8,
+      "end": 181.8,
+      "text": " And if I said 54, 56, 56, 7."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 181.8,
+      "end": 183.8,
+      "text": " You will understand that we are talking about Shruti."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 183.8,
+      "end": 185.8,
+      "text": " And if I said 34, 56, 85, 68, 63."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 185.8,
+      "end": 187.8,
+      "text": " You will understand that we are talking about Tanya."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 187.8,
+      "end": 189.8,
+      "text": " So this Aadhar number uniquely identifies"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 189.8,
+      "end": 191.8,
+      "text": " Tanya, Harry, Shruti, John, John, John."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 191.8,
+      "end": 193.8,
+      "text": " And this is the Aadhar number."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 193.8,
+      "end": 195.8,
+      "text": " So this is the Aadhar number."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 195.8,
+      "end": 197.8,
+      "text": " And this is the Aadhar number."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 198.64000000000001,
+      "end": 200.64000000000001,
+      "text": " We will now analyze this."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 200.64000000000001,
+      "end": 202.64000000000001,
+      "text": " Harry, Shruti, And John."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 202.64000000000001,
+      "end": 204.64000000000001,
+      "text": " This is their Aadhar number."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 204.64000000000001,
+      "end": 206.64000000000001,
+      "text": " This is their ID."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 206.64000000000001,
+      "end": 208.64000000000001,
+      "text": " No other person will get this Aadhar number."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 208.64000000000001,
+      "end": 210.64000000000001,
+      "text": " Along with it,"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 210.64000000000001,
+      "end": 212.64000000000001,
+      "text": " John and Harry spent their childhood together."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 212.64000000000001,
+      "end": 214.64000000000001,
+      "text": " They were students of the same class."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 214.64000000000001,
+      "end": 216.64000000000001,
+      "text": " And that class was called"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 216.64000000000001,
+      "end": 218.64000000000001,
+      "text": " Class 10th."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 220.64000000000001,
+      "end": 222.64000000000001,
+      "text": " And Shruti is from class 9th."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 222.64000000000001,
+      "end": 224.64000000000001,
+      "text": " And Tanya is also from class 9th."
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 224.64,
+      "end": 226.64,
+      "text": " and Tanya is also in class 9th"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 226.64,
+      "end": 228.64,
+      "text": " so both are in class 9th"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 228.64,
+      "end": 230.64,
+      "text": " Tanya is also in class 9th"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 230.64,
+      "end": 232.64,
+      "text": " and Shruti is also in class 9th"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 232.64,
+      "end": 234.64,
+      "text": " so what is Shruti's class? 9th"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 234.64,
+      "end": 236.64,
+      "text": " Tanya's class can also be 9th"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 236.64,
+      "end": 238.64,
+      "text": " Shruti will not study alone in class"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 238.64,
+      "end": 240.64,
+      "text": " or Harry will not study alone in class 10th"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 240.64,
+      "end": 242.64,
+      "text": " there are other kids in class"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 242.64,
+      "end": 244.64,
+      "text": " so class means"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 244.64,
+      "end": 246.64,
+      "text": " in one class there is Harry and John"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 246.64,
+      "end": 248.64,
+      "text": " so can a class be multiple of one person?"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 248.64,
+      "end": 250.64,
+      "text": " a class can be multiple of one person"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 250.64,
+      "end": 252.64,
+      "text": " like assume"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 252.64,
+      "end": 254.64,
+      "text": " Harry is in class 10th"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 254.64,
+      "end": 256.64,
+      "text": " and he goes to a tuition"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 256.64,
+      "end": 258.64,
+      "text": " where he is in class 10A"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 258.64,
+      "end": 260.64,
+      "text": " so there can be more than one class"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 260.64,
+      "end": 262.64,
+      "text": " one is class 10th"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 262.64,
+      "end": 264.64,
+      "text": " and another is class 10A"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 264.64,
+      "end": 266.64,
+      "text": " and with that"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 266.64,
+      "end": 268.64,
+      "text": " if Harry wears red t-shirt"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 268.64,
+      "end": 270.64,
+      "text": " so his class is also red"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 270.64,
+      "end": 272.64,
+      "text": " so class means"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 272.64,
+      "end": 274.64,
+      "text": " he is classified in this class"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 274.64,
+      "end": 276.64,
+      "text": " now come here"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 276.64,
+      "end": 278.64,
+      "text": " leave John, Harry and Shruti"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 278.64,
+      "end": 280.64,
+      "text": " delete this"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 280.64,
+      "end": 282.64,
+      "text": " it doesn't mean anything"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 282.64,
+      "end": 284.64,
+      "text": " now come to index.html"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 284.64,
+      "end": 286.64,
+      "text": " and understand this"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 286.64,
+      "end": 288.64,
+      "text": " assume I made a div"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 288.64,
+      "end": 290.64,
+      "text": " and I gave a class to it"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 290.64,
+      "end": 292.64,
+      "text": " and I made a span"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 292.64,
+      "end": 294.64,
+      "text": " and I gave a class to it"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 294.64,
+      "end": 296.64,
+      "text": " can I give classes to different elements"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 296.64,
+      "end": 298.64,
+      "text": " or same class? yes I can"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 298.64,
+      "end": 300.64,
+      "text": " but if I want to put id"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 300.64,
+      "end": 302.64,
+      "text": " in any element"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 302.64,
+      "end": 304.64,
+      "text": " I can put anything in id"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 304.64,
+      "end": 306.64,
+      "text": " so I can't give this id to any other element"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 306.64,
+      "end": 308.64,
+      "text": " because this is its Aadhaar card"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 308.64,
+      "end": 310.64,
+      "text": " so I can't put id in Aadhaar card"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 310.64,
+      "end": 312.64,
+      "text": " so I have to put id in other element"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 312.64,
+      "end": 314.64,
+      "text": " I put id in second element"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 314.64,
+      "end": 316.64,
+      "text": " and I write second"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 316.64,
+      "end": 318.64,
+      "text": " and I write first"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 318.64,
+      "end": 320.64,
+      "text": " so this id and classes concept"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 320.64,
+      "end": 322.64,
+      "text": " I understood it very late"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 322.64,
+      "end": 324.64,
+      "text": " when I was learning web development"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 324.64,
+      "end": 326.64,
+      "text": " in my early days"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 326.64,
+      "end": 328.64,
+      "text": " no one told me that id uniquely identifies"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 328.64,
+      "end": 330.64,
+      "text": " an element"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 330.64,
+      "end": 332.64,
+      "text": " and class can put multiple classes"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 332.64,
+      "end": 334.64,
+      "text": " in one element"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 334.64,
+      "end": 336.64,
+      "text": " and can put one class in multiple elements"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 336.64,
+      "end": 338.64,
+      "text": " understand?"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 338.64,
+      "end": 340.64,
+      "text": " if I gave red class to this"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 340.64,
+      "end": 342.64,
+      "text": " I can give bg yellow class to this"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 342.64,
+      "end": 344.64,
+      "text": " and if we give class to any element"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 344.64,
+      "end": 346.64,
+      "text": " in multiple"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 346.64,
+      "end": 348.64,
+      "text": " then we put space"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 348.64,
+      "end": 350.64,
+      "text": " like if I want to put multiple classes"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 350.64,
+      "end": 352.64,
+      "text": " in this element"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 352.64,
+      "end": 354.64,
+      "text": " then I will write red here"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 354.64,
+      "end": 356.64,
+      "text": " and then I will put space and write bg yellow"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 356.64,
+      "end": 358.64,
+      "text": " so in this way I can give multiple classes"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 358.64,
+      "end": 360.64,
+      "text": " to same element"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 360.64,
+      "end": 362.64,
+      "text": " can I give multiple id to same element"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 362.64,
+      "end": 364.64,
+      "text": " have you ever heard of someone's two Aadhaar cards"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 364.64,
+      "end": 366.64,
+      "text": " I don't know"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 366.64,
+      "end": 368.64,
+      "text": " but it doesn't exist"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 368.64,
+      "end": 370.64,
+      "text": " Aadhaar number is one for one person"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 370.64,
+      "end": 372.64,
+      "text": " and Aadhaar number"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 372.64,
+      "end": 374.64,
+      "text": " can't be same for different people"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 374.64,
+      "end": 376.64,
+      "text": " can't be multiple for one person"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 376.64,
+      "end": 378.64,
+      "text": " and can't be same for different people"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 378.64,
+      "end": 380.64,
+      "text": " but the class"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 380.64,
+      "end": 382.64,
+      "text": " like if I say"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 382.64,
+      "end": 384.64,
+      "text": " what color t-shirt you wear"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 384.64,
+      "end": 386.64,
+      "text": " or you can wear red t-shirt for 5 people"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 386.64,
+      "end": 388.64,
+      "text": " no problem you will get it if you go on the road"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 388.64,
+      "end": 390.64,
+      "text": " and let us say"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 390.64,
+      "end": 392.64,
+      "text": " those who like mango"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 392.64,
+      "end": 394.64,
+      "text": " those who like banana"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 394.64,
+      "end": 396.64,
+      "text": " or those who like grapes"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 396.64,
+      "end": 398.64,
+      "text": " so let us say they are in banana class"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 398.64,
+      "end": 400.64,
+      "text": " or they are in grapes class"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 400.64,
+      "end": 402.64,
+      "text": " so we can classify in one class"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 402.64,
+      "end": 404.64,
+      "text": " and we can give different elements to same class"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 404.64,
+      "end": 406.64,
+      "text": " so I hope you understood this"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 406.64,
+      "end": 408.64,
+      "text": " now I will write some CSS"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 408.64,
+      "end": 410.64,
+      "text": " and don't say that you are not reading CSS"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 410.64,
+      "end": 412.64,
+      "text": " what I am writing in CSS"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 412.64,
+      "end": 414.64,
+      "text": " just think that I am writing some alien language"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 414.64,
+      "end": 416.64,
+      "text": " ok"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 416.64,
+      "end": 418.64,
+      "text": " in style.css"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 418.64,
+      "end": 420.64,
+      "text": " but I am trying to make a point"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 420.64,
+      "end": 422.64,
+      "text": " and here the preview"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 422.64,
+      "end": 424.64,
+      "text": " is looking like this"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 424.64,
+      "end": 426.64,
+      "text": " I will show you one thing"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 426.64,
+      "end": 428.64,
+      "text": " how to target class in CSS"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 428.64,
+      "end": 430.64,
+      "text": " dot"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 430.64,
+      "end": 432.64,
+      "text": " dot red means red class"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 432.64,
+      "end": 434.64,
+      "text": " and hash first div means"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 434.64,
+      "end": 436.64,
+      "text": " hash means id and dot means class"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 436.64,
+      "end": 438.64,
+      "text": " if I say"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 438.64,
+      "end": 440.64,
+      "text": " the first div"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 440.64,
+      "end": 442.64,
+      "text": " background color should be red"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 442.64,
+      "end": 444.64,
+      "text": " so by doing background color of first div"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 444.64,
+      "end": 446.64,
+      "text": " background color will be red"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 446.64,
+      "end": 448.64,
+      "text": " these are selectors in CSS"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 448.64,
+      "end": 450.64,
+      "text": " I don't want to confuse you"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 450.64,
+      "end": 452.64,
+      "text": " and I can comment in this way"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 452.64,
+      "end": 454.64,
+      "text": " but we will study these things later"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 454.64,
+      "end": 456.64,
+      "text": " now by dot red"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 456.64,
+      "end": 458.64,
+      "text": " I will write background color red"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 458.64,
+      "end": 460.64,
+      "text": " and along with that"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 460.64,
+      "end": 462.64,
+      "text": " what I will do in dot bg yellow"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 462.64,
+      "end": 464.64,
+      "text": " I have to put dot"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 464.64,
+      "end": 466.64,
+      "text": " dot means class"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 466.64,
+      "end": 468.64,
+      "text": " and I will make background color"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 468.64,
+      "end": 470.64,
+      "text": " yellow"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 470.64,
+      "end": 472.64,
+      "text": " sorry I will make it color red"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 472.64,
+      "end": 474.64,
+      "text": " dot red means color should be red"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 474.64,
+      "end": 476.64,
+      "text": " see its color is red and background color is yellow"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 476.64,
+      "end": 478.64,
+      "text": " so in this way you can"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 478.64,
+      "end": 480.64,
+      "text": " use id and classes in CSS"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 480.64,
+      "end": 482.64,
+      "text": " I hope you understood this"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 482.64,
+      "end": 484.64,
+      "text": " now one thing to note here"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 484.64,
+      "end": 486.64,
+      "text": " is that id and classes"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 486.64,
+      "end": 488.64,
+      "text": " are attributes of element"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 488.64,
+      "end": 490.64,
+      "text": " this is id attribute and this is class attribute"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 490.64,
+      "end": 492.64,
+      "text": " so if I say what are id classes"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 492.64,
+      "end": 494.64,
+      "text": " are they elements or not? they are attributes of elements"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 494.64,
+      "end": 496.64,
+      "text": " now there is one more use of id"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 496.64,
+      "end": 498.64,
+      "text": " I will tell you what is one more use of id"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 498.64,
+      "end": 500.64,
+      "text": " if I take you to wikipedia"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 500.64,
+      "end": 502.64,
+      "text": " and I write coding"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 502.64,
+      "end": 504.64,
+      "text": " so this page of wikipedia came"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 504.64,
+      "end": 506.64,
+      "text": " I will go to another page"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 506.64,
+      "end": 508.64,
+      "text": " so you can see"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 508.64,
+      "end": 510.64,
+      "text": " when you go to any page of wikipedia"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 510.64,
+      "end": 512.64,
+      "text": " you can take link of that particular page"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 512.64,
+      "end": 514.64,
+      "text": " I will show you how it is"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 514.64,
+      "end": 516.64,
+      "text": " I will go to another page"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 516.64,
+      "end": 518.64,
+      "text": " I will scroll down"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 518.64,
+      "end": 520.64,
+      "text": " and I will inspect here"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 520.64,
+      "end": 522.64,
+      "text": " I will see its id"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 522.64,
+      "end": 524.64,
+      "text": " so I will copy its id"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 524.64,
+      "end": 526.64,
+      "text": " and if I put here"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 526.64,
+      "end": 528.64,
+      "text": " hashtag and this id"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 528.64,
+      "end": 530.64,
+      "text": " now if I will enter it will bring me here"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 530.64,
+      "end": 532.64,
+      "text": " in ICDA 8"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 532.64,
+      "end": 534.64,
+      "text": " now if I put it in incognito"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 534.64,
+      "end": 536.64,
+      "text": " it will scroll and show me that particular id"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 536.64,
+      "end": 538.64,
+      "text": " you can see it scroll"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 538.64,
+      "end": 540.64,
+      "text": " instead of showing me this"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 540.64,
+      "end": 542.64,
+      "text": " it scrolled and showed me"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 542.64,
+      "end": 544.64,
+      "text": " because it wants to bring me to this id"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 544.64,
+      "end": 546.64,
+      "text": " so id works in linking"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 546.64,
+      "end": 548.64,
+      "text": " remember this also"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 548.64,
+      "end": 550.64,
+      "text": " very less people will tell you"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 550.64,
+      "end": 552.64,
+      "text": " that you can generate links"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 552.64,
+      "end": 554.64,
+      "text": " if you write hashtag and write id"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 554.64,
+      "end": 556.64,
+      "text": " so when you open that link"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 556.64,
+      "end": 558.64,
+      "text": " it will focus that id"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 558.64,
+      "end": 560.64,
+      "text": " you can see"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 560.64,
+      "end": 562.64,
+      "text": " I think I made wrong id"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 562.64,
+      "end": 564.64,
+      "text": " but you got the point"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 564.64,
+      "end": 566.64,
+      "text": " 29.29"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 566.64,
+      "end": 568.64,
+      "text": " now if I enter it"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 568.64,
+      "end": 570.64,
+      "text": " I am down"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 570.64,
+      "end": 572.64,
+      "text": " now if I scroll up"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 572.64,
+      "end": 574.64,
+      "text": " and after that"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 574.64,
+      "end": 576.64,
+      "text": " I open new tab"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 576.64,
+      "end": 578.64,
+      "text": " and if I do like this"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 578.64,
+      "end": 580.64,
+      "text": " it will bring me to that page"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 580.64,
+      "end": 582.64,
+      "text": " I hope you understood"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 582.64,
+      "end": 584.64,
+      "text": " id and classes"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 584.64,
+      "end": 586.64,
+      "text": " id means like aadhar card"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 586.64,
+      "end": 588.64,
+      "text": " class means like a person's property"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 588.64,
+      "end": 590.64,
+      "text": " class means like a person's property"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 590.64,
+      "end": 592.64,
+      "text": " one element can be given multiple classes"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 592.64,
+      "end": 594.64,
+      "text": " one element can be red"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 594.64,
+      "end": 596.64,
+      "text": " and background can be yellow"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 596.64,
+      "end": 598.64,
+      "text": " and other element can be red and background yellow"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 598.64,
+      "end": 600.64,
+      "text": " so red class can be given multiple elements"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 600.64,
+      "end": 602.64,
+      "text": " red class can be given only one element"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 602.64,
+      "end": 604.64,
+      "text": " and in one element you can put red class"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 604.64,
+      "end": 606.64,
+      "text": " and yellow class"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 606.64,
+      "end": 608.64,
+      "text": " so I hope you understood"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 608.64,
+      "end": 610.64,
+      "text": " so that's all for this video"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 610.64,
+      "end": 612.64,
+      "text": " I was reading captions and I laughed"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 612.64,
+      "end": 614.64,
+      "text": " so I told them to name me"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 614.64,
+      "end": 616.64,
+      "text": " and I laughed 5-10 times"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 616.64,
+      "end": 618.64,
+      "text": " I told them to access"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 618.64,
+      "end": 620.64,
+      "text": " name your village"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 620.64,
+      "end": 622.64,
+      "text": " and my name"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 622.64,
+      "end": 624.64,
+      "text": " so on this note access the playlist"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 624.64,
+      "end": 626.64,
+      "text": " access github"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 626.64,
+      "end": 628.64,
+      "text": " like the video"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 628.64,
+      "end": 630.64,
+      "text": " and write hashtag sigma batch op in the comment section"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 630.64,
+      "end": 632.64,
+      "text": " thank you so much guys for watching this video"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 632.64,
+      "end": 634.64,
+      "text": " and I will see you next time"
+    },
+    {
+      "number": "9",
+      "title": "Id & Classes in HTML",
+      "start": 646.64,
+      "end": 656.64,
+      "text": " Outro"
+    }
+  ],
+  "text": " In this video, I will tell you what are ID and Classes? The concept of ID and Classes is one of the most confused concepts. In fact, when I was learning HTML, I was very confused in my early days. ID means Unique Identifier. That is, if you give an ID to an element, you will not give that ID to the other element. But class means that if you want to give a property to multiple elements, then you will give it multiple classes. For example, you can give a class named Red to a div and a form. Similarly, you can give a class named BGRed to an article tag and a header tag. Do like this video because we will now go to the computer screen and we will see these things very closely. Let's roll the intro. Alright guys, so I am back. And if you have not accessed the Sigma Web Development course, then access the playlist or click on the bookmark or click on save. And the source code is also being uploaded on GitHub. Now I will come here in the folder and quickly make a folder of video number 9. So I will make a folder of video 9 here. I will write here video 9. And after making a folder of video 9, I will right click on shift and open with code. And here you can see that it has opened in BS code. Now I will write index.html here, I will enter with an exclamation mark. And along with that, now I will tell you what are ID and classes. You must have an Aadhar card, right? If not, then you must have some ID. Now don't write in the comment that I don't have an ID. Whenever you go somewhere, you have to show your ID to prove your identity in some of the cases. That I am this. Now if you want to understand about ID and classes in HTML, then ID is what your identity is. Okay, what is it? It is your identity. So listen to a story here. This is John. And this is Harry. These two are very good friends. They are very good friends. They just don't share their lunch. And the rest are very good friends. In the matter of food, he is not the only one. And he is a friend in all other matters. And here you can see that this is John and Harry. Both of them have their own Aadhar ID. So this is my Aadhar number. And John's Aadhar number looks something like this. So this is John's Aadhar number. And this is my Aadhar number. Our Aadhar numbers can never be the same. Or if we assume that our friend is my friend. Tanya and John's friend is Shruti. So their Aadhar numbers will also be different. And this is Tanya's Aadhar number. Now this Aadhar number will be different for everyone. So John and Harry were friends. John's friend was Shruti. This is her Aadhar number. And this is mine. So this is mine. This is Tanya's Aadhar number. None of these four numbers are the same. If I told you any of these Aadhar numbers, I would have said 35, 44, 5. You will understand that we are talking about Harry. And if I said 54, 56, 56, 7. You will understand that we are talking about Shruti. And if I said 34, 56, 85, 68, 63. You will understand that we are talking about Tanya. So this Aadhar number uniquely identifies Tanya, Harry, Shruti, John, John, John. And this is the Aadhar number. So this is the Aadhar number. And this is the Aadhar number. We will now analyze this. Harry, Shruti, And John. This is their Aadhar number. This is their ID. No other person will get this Aadhar number. Along with it, John and Harry spent their childhood together. They were students of the same class. And that class was called Class 10th. And Shruti is from class 9th. And Tanya is also from class 9th. and Tanya is also in class 9th so both are in class 9th Tanya is also in class 9th and Shruti is also in class 9th so what is Shruti's class? 9th Tanya's class can also be 9th Shruti will not study alone in class or Harry will not study alone in class 10th there are other kids in class so class means in one class there is Harry and John so can a class be multiple of one person? a class can be multiple of one person like assume Harry is in class 10th and he goes to a tuition where he is in class 10A so there can be more than one class one is class 10th and another is class 10A and with that if Harry wears red t-shirt so his class is also red so class means he is classified in this class now come here leave John, Harry and Shruti delete this it doesn't mean anything now come to index.html and understand this assume I made a div and I gave a class to it and I made a span and I gave a class to it can I give classes to different elements or same class? yes I can but if I want to put id in any element I can put anything in id so I can't give this id to any other element because this is its Aadhaar card so I can't put id in Aadhaar card so I have to put id in other element I put id in second element and I write second and I write first so this id and classes concept I understood it very late when I was learning web development in my early days no one told me that id uniquely identifies an element and class can put multiple classes in one element and can put one class in multiple elements understand? if I gave red class to this I can give bg yellow class to this and if we give class to any element in multiple then we put space like if I want to put multiple classes in this element then I will write red here and then I will put space and write bg yellow so in this way I can give multiple classes to same element can I give multiple id to same element have you ever heard of someone's two Aadhaar cards I don't know but it doesn't exist Aadhaar number is one for one person and Aadhaar number can't be same for different people can't be multiple for one person and can't be same for different people but the class like if I say what color t-shirt you wear or you can wear red t-shirt for 5 people no problem you will get it if you go on the road and let us say those who like mango those who like banana or those who like grapes so let us say they are in banana class or they are in grapes class so we can classify in one class and we can give different elements to same class so I hope you understood this now I will write some CSS and don't say that you are not reading CSS what I am writing in CSS just think that I am writing some alien language ok in style.css but I am trying to make a point and here the preview is looking like this I will show you one thing how to target class in CSS dot dot red means red class and hash first div means hash means id and dot means class if I say the first div background color should be red so by doing background color of first div background color will be red these are selectors in CSS I don't want to confuse you and I can comment in this way but we will study these things later now by dot red I will write background color red and along with that what I will do in dot bg yellow I have to put dot dot means class and I will make background color yellow sorry I will make it color red dot red means color should be red see its color is red and background color is yellow so in this way you can use id and classes in CSS I hope you understood this now one thing to note here is that id and classes are attributes of element this is id attribute and this is class attribute so if I say what are id classes are they elements or not? they are attributes of elements now there is one more use of id I will tell you what is one more use of id if I take you to wikipedia and I write coding so this page of wikipedia came I will go to another page so you can see when you go to any page of wikipedia you can take link of that particular page I will show you how it is I will go to another page I will scroll down and I will inspect here I will see its id so I will copy its id and if I put here hashtag and this id now if I will enter it will bring me here in ICDA 8 now if I put it in incognito it will scroll and show me that particular id you can see it scroll instead of showing me this it scrolled and showed me because it wants to bring me to this id so id works in linking remember this also very less people will tell you that you can generate links if you write hashtag and write id so when you open that link it will focus that id you can see I think I made wrong id but you got the point 29.29 now if I enter it I am down now if I scroll up and after that I open new tab and if I do like this it will bring me to that page I hope you understood id and classes id means like aadhar card class means like a person's property class means like a person's property one element can be given multiple classes one element can be red and background can be yellow and other element can be red and background yellow so red class can be given multiple elements red class can be given only one element and in one element you can put red class and yellow class so I hope you understood so that's all for this video I was reading captions and I laughed so I told them to name me and I laughed 5-10 times I told them to access name your village and my name so on this note access the playlist access github like the video and write hashtag sigma batch op in the comment section thank you so much guys for watching this video and I will see you next time Outro"
+}
