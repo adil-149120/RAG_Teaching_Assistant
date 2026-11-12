@@ -23,7 +23,7 @@ def inference(prompt):
     })
 
     response = r.json()
-    return response
+    return response 
 
 
 
