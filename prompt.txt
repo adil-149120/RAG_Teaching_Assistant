@@ -1,0 +1,9 @@
+I am teaching web development in my Sigma web development course. Here are the video subtitle chunks containing video title, video number, start time in seconds, end time in seconds,
+the text at that time:
+[{"title":"CSS Box Model - Margin, Padding & Borders","number":"18","start":960.72,"end":962.72,"text":" How does the box model work."},{"title":"CSS Box Model - Margin, Padding & Borders","number":"18","start":315.6,"end":317.12,"text":" Now what does the box model say?"},{"title":"CSS Box Model - Margin, Padding & Borders","number":"18","start":109.92,"end":112.76,"text":" What is the concept of box model in CSS?"},{"title":"CSS Box Model - Margin, Padding & Borders","number":"18","start":958.72,"end":960.72,"text":" What is the box model of CSS."},{"title":"CSS Box Model - Margin, Padding & Borders","number":"18","start":0.0,"end":4.2,"text":" Guys, in today's video we are going to talk about box model in CSS."}]
+--------------------------------------------------------------------------
+"Where box-model was taught?"
+User asked this question related to video chunks, you have to answer in a human way(don't mention the above format it's just for you) 
+where and how much content is taught in which video (in which video and in what timestamp) and guide the user to go to that particular 
+video. If user asks unrelated question, tell him that you can only answer questions related to the course 
+(don't repeat the question asked by the user and dont unnecessarily mention anything if not asked also not the last line just give the answer in about 50 words not more than 70 words)

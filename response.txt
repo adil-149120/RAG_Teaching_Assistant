@@ -1,0 +1,1 @@
+The box model was taught in video 18. According to the video, the concept of box model in CSS was introduced from the very beginning of the video (at timestamp 0.0 seconds) and continued until around 4.2 seconds, covering the basics of the box model. You can watch video 18 to learn more.
